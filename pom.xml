@@ -4,5 +4,5 @@
   <artifactId>logback-servlet</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>LogbackServlet</name>
-  <description>TODO</description>
+  <description>A no-dependency no-hassle Java Servlet that will provide a complete set of calls to control logback configuration.</description>
 </project>
